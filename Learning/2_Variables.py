@@ -1,4 +1,5 @@
 #2 Variables
+
 string = "Text"
 num = 13.52
 boolean=True                        # boolean is actually a subclass of int.
@@ -14,11 +15,16 @@ print(boolean+1)
 
 
 
-# typecasting
-
-#   bool(), num(), str(), int()
+    # typecasting
+    #   bool(), num(), str(), int()
 
 print(type(string))
 print(type(num))
 print(type(str(num)))
 print(type(type(boolean)))          # okkkkkkk
+
+
+    # boolean applications
+
+x = input("Age: ")
+print(x == 20)
