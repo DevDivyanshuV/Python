@@ -1,3 +1,6 @@
+
+    # importing numpy 
+
 import numpy as np
 
 print(np.pi)                                                # value of pi, just to cross verify

@@ -1,4 +1,6 @@
 # calculator
+    # Use of assignments and elif function
+
 
 operators=input("Enter the operator (+ - / * **): ")
 numc1=float(input("Enter the first number: "))
