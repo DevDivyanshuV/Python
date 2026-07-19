@@ -4,6 +4,7 @@
 import numpy as np
 
 print(np.pi)                                                # value of pi, just to cross verify
+print(np.e)
 
 a=float(input("Enter perpendicular of triangle (in cm): "))
 b=float(input("Enter base of triangle (in cm): "))
